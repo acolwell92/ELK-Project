@@ -3,7 +3,7 @@
 The files in this repository were used to configure the network depicted below.
 
 Images/elk_project_topology.gliffy
-## Make sure to iport the file to gliffy to view it!
+- Make sure to import the file to gliffy to view it!
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select files may be used to install only certain pieces of it, such as Filebeat.
 - ELK-install.yml

@@ -35,11 +35,11 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name     | Function    | IP Address    | Operating System |
 |----------|-------------|---------------|------------------|
-| Jump Box | Gateway     | 52.149.167.41 | Ubunto 18.04     |
-| Web-1    | DVWA Server | 10.0.0.7      | Ubunto 18.04     |
-| Web-2    | DVWA Server | 10.0.0.6      | Ubunto 18.04     |
-| Web-3    | DVWA Server | 10.0.0.5      | Ubunto 18.04     |
-| ELK      | ELK Server  | 20.187.48.224 | Ubunto 18.04     |
+| Jump Box | Gateway     | 52.149.167.41 | Ubuntu 18.04     |
+| Web-1    | DVWA Server | 10.0.0.7      | Ubuntu 18.04     |
+| Web-2    | DVWA Server | 10.0.0.6      | Ubuntu 18.04     |
+| Web-3    | DVWA Server | 10.0.0.5      | Ubuntu 18.04     |
+| ELK      | ELK Server  | 20.187.48.224 | Ubuntu 18.04     |
 
 ### Access Policies
 

@@ -3,7 +3,7 @@
 The files in this repository were used to configure the network depicted below.
 
 Images/elk_project_topology.gliffy
-## Make sure to iport the file to gliffy to view it!
+- Make sure to import the file to gliffy to view it!
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select files may be used to install only certain pieces of it, such as Filebeat.
 - ELK-install.yml
@@ -35,11 +35,11 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name     | Function    | IP Address    | Operating System |
 |----------|-------------|---------------|------------------|
-| Jump Box | Gateway     | 52.149.167.41 | Ubunto 18.04     |
-| Web-1    | DVWA Server | 10.0.0.7      | Ubunto 18.04     |
-| Web-2    | DVWA Server | 10.0.0.6      | Ubunto 18.04     |
-| Web-3    | DVWA Server | 10.0.0.5      | Ubunto 18.04     |
-| ELK      | ELK Server  | 20.187.48.224 | Ubunto 18.04     |
+| Jump Box | Gateway     | 52.149.167.41 | Ubuntu 18.04     |
+| Web-1    | DVWA Server | 10.0.0.7      | Ubuntu 18.04     |
+| Web-2    | DVWA Server | 10.0.0.6      | Ubuntu 18.04     |
+| Web-3    | DVWA Server | 10.0.0.5      | Ubuntu 18.04     |
+| ELK      | ELK Server  | 20.187.48.224 | Ubuntu 18.04     |
 
 ### Access Policies
 
